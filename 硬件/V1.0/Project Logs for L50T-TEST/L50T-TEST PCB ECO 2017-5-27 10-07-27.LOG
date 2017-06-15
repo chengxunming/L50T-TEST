@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U6 Old Footprint=AC-DC-10W New Footprint=AC-DC-15W
+Change Component Comment : Designator=U6 Old Comment=LH10-13B12 New Comment=LH15-13B12
+Change Component Comment : Designator=LED19 Old Comment=Yellow New Comment=Blue

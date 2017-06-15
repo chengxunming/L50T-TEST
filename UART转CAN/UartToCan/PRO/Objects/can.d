@@ -1,0 +1,17 @@
+.\objects\can.o: ..\Driver\CAN.c
+.\objects\can.o: ..\CMSIS\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H
+.\objects\can.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
+.\objects\can.o: d:\Keil_v523\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\can.o: ..\CMSIS\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+.\objects\can.o: ..\Driver\CAN.h
+.\objects\can.o: ..\USER\bsp_include.h
+.\objects\can.o: d:\Keil_v523\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\can.o: d:\Keil_v523\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\can.o: d:\Keil_v523\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\can.o: d:\Keil_v523\ARM\ARMCC\Bin\..\include\string.h
+.\objects\can.o: ..\USER\sys.h
+.\objects\can.o: ..\Driver\GLCD.h
+.\objects\can.o: ..\Driver\LED.h
+.\objects\can.o: ..\Driver\ADC.h
+.\objects\can.o: ..\Driver\uart.h
+.\objects\can.o: ..\Driver\delay.h

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=220_L Pin=F1-1
+Removed Pin From Net: NetName=220_N Pin=J8-1
+Removed Pin From Net: NetName=PG Pin=J8-2
+Removed Pin From Net: NetName=220_L Pin=J8-3
+Change Component Footprint: Designator=J8 Old Footprint=DF102 New Footprint=CON-3-9.5
+Added Pin To Net: NetName=220_N Pin=J8-2
+Added Pin To Net: NetName=PG Pin=J8-3
+Added Pin To Net: NetName=220_L Pin=RT1-2
+Added Pin To Net: NetName=220_L Pin=U6-3
+Change Net Name : Old Net Name=220_L New Net Name=SYS_PWR
+Added Pin To Net: NetName=220_L Pin=F1-1
+Added Pin To Net: NetName=220_L Pin=J8-1
+Added Net: Name=220_L

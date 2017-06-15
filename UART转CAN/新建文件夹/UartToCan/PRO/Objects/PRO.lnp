@@ -1,0 +1,17 @@
+--cpu Cortex-M3
+".\objects\main.o"
+".\objects\app_use.o"
+".\objects\app_can.o"
+".\objects\can.o"
+".\objects\adc.o"
+".\objects\led.o"
+".\objects\glcd_lpc1700.o"
+".\objects\uart.o"
+".\objects\delay.o"
+".\objects\core_cm3.o"
+".\objects\system_lpc17xx.o"
+".\objects\startup_lpc17xx.o"
+--library_type=microlib --strict --scatter ".\Objects\PRO.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\PRO.map" -o .\Objects\PRO.axf
